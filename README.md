@@ -1,2 +1,3 @@
 # hello-world
-Just first repository
+Never too old to learn.
+Overpower procrastination.
